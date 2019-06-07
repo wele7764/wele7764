@@ -1,5 +1,11 @@
-我使用 Random forest 來分析
+#Big-Data-Analytics-HomeWork 1
 
-運用了 ipython jupyter blaze 等套件
+這邊練習 Feature importances with forests of trees
 
-因為第一次接觸資料分析，我覺得上課步調有點跟不上，可以的話希望老師有多的詳細說明
+來分析數據裡的Features辨認各個Feature的重要性
+
+並對每個Feature做Ranking的排行依序列出Feature的重要性
+
+運用了 ipython 作為程式碼基礎
+
+因為第一次接觸資料分析，可以的話希望老師有多的詳細說明
